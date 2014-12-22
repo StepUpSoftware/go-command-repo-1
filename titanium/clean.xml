@@ -1,0 +1,11 @@
+<!--
+name: titanium clean
+description: .
+author: Step Up Software
+authorinfo: http://www.stepupsoftware.co.uk
+keywords: titanium, appcelerator, clean
+moreinfo: http://docs.appcelerator.com/titanium/3.0/#!/guide/Titanium_Command-Line_Interface_Reference
+-->
+<exec command="titanium">
+<arg>clean</arg>
+</exec>
